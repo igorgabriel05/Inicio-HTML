@@ -202,3 +202,17 @@ p{
     top: 100px;
     left: 45px;
 }
+
+/* 22 - relative com absolute */
+#relative-2{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+}
+
+#absolute-1, #absolute-2{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+}
